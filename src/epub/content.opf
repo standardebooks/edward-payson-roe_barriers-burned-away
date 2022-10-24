@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edward-payson-roe/barriers-burned-away</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-10-24T01:09:10Z</dc:date>
+		<meta property="dcterms:modified">2022-10-24T01:09:10Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,16 +41,17 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A hard-working but down-on-his-luck young man falls in love with a wealthy but non-believing woman, against the backdrop of pre-Fire Chicago.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Dennis Fleet is a hard-working and pious young Christian man who’s come to the big city of Chicago in order to earn money for his poor family. As he braves his first icy winter, he quickly moves up the rungs of business until he finds himself working for the prosperous art dealer Mr. Ludolph. Ludolph’s beautiful daughter Christine quickly catches Dennis’s eye—but much to his chagrin, she’s a non-believer.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/edward-payson-roe"&gt;Roe&lt;/a&gt;, a Presbyterian minister from New York, was inspired to write &lt;i&gt;Barriers Burned Away&lt;/i&gt; after news of the Great Chicago Fire spurred him to visit the remains of the city. He set the book against the backdrop of the encroaching fire, making the novel a fascinating portrait of an era of Chicago that was literally burned to cinders. The book went on to become the bestselling book of 1872, and with its high moral air and sermon-like prose played no small part in breaking down the prejudice against fiction novels that was common in Christian communities of the day.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6627</dc:source>
 		<dc:source>https://www.google.com/books/edition/Barriers_burned_away/jV4_AQAAMAAJ</dc:source>
 		<meta property="se:production-notes">Some instances of "zwei" are not italicized because they're spoken as part of a patois dialect.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">143127</meta>
+		<meta property="se:reading-ease.flesch">70.23</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Barriers_Burned_Away</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edward-payson-roe_barriers-burned-away</meta>
 		<dc:creator id="author">Edward Payson Roe</dc:creator>
