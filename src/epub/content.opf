@@ -51,7 +51,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/6627</dc:source>
 		<dc:source>https://www.google.com/books/edition/Barriers_burned_away/jV4_AQAAMAAJ</dc:source>
 		<meta property="se:production-notes">Some instances of "zwei" are not italicized because they're spoken as part of a patois dialect.</meta>
-		<meta property="se:word-count">143124</meta>
+		<meta property="se:word-count">142215</meta>
 		<meta property="se:reading-ease.flesch">70.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Barriers_Burned_Away</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edward-payson-roe_barriers-burned-away</meta>
